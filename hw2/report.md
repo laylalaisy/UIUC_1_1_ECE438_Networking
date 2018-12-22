@@ -1,11 +1,5 @@
 # ECE 438 HW2: Transport Layer, TCP, UDP
 
-Name: Shuyue Lai
-
-NetID: shuyuel2
-
-
-
 ### (1) 
 
 a) False. When sender does not send package successfully while the NACK drops during transmission, the sender will not know the situation and will not resent the missing package.
